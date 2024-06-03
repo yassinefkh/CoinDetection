@@ -43,8 +43,6 @@ Le dossier Images est à mettre au même niveau que les dossiers scripts, resour
 
 # Auteurs
 
-ALASHOUR Ahmad
-BEN HADJ Abderraouf
-CALEGARI Murilo
 FEKIH HASSEN Yassine
+CALEGARI Murilo
 
