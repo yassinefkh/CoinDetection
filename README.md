@@ -2,6 +2,7 @@
 
 Ce projet implémente un système de détection et de reconnaissance de pièces en euros en utilisant des techniques de vision par ordinateur et d'apprentissage automatique. 
 
+Ce projet a été réalisé dans le cadre de l'UE **Image** de M. *LOBRY Sylvain*, au sein de l'*Université Paris Cité*.
 ## Installation
 
 1. Installez les dépendances :
